@@ -1,31 +1,34 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB_Bluetooth_Device_nRF52820.GBR   08.08.2024  20:19:19
+Gerber File Extension Report For: PCB_Bluetooth_Device_nRF52820.GBR   10.08.2024  15:17:26
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.GTO                Top Overlay                             
-.GTP                Top Paste                               
-.GTS                Top Solder                              
-.GTL                Layer 1                                 
-.G1                 Layer 2                                 
-.G2                 Layer 3                                 
-.GBL                Layer 4                                 
-.GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
-.GM1                Mechanical 1                            
-.GM2                Top Courtyard                           
-.GM4                Top Component Outline                   
-.GM6                Top Designator                          
-.GM7                Mechanical 7                            
-.GM9                Top 3D Body                             
-.GM13               Mechanical 13                           
-.GKO                Keep-Out Layer                          
-.GPT                Top Pad Master                          
-.GPB                Bottom Pad Master                       
-.GD1                Drill Drawing                           
-.GG1                Drill Guide                             
-.GM                 Profile                                 
+.gbr                Layer 1                                 
+.gbr                Layer 2                                 
+.gbr                Layer 3                                 
+.gbr                Layer 4                                 
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Top Overlay                             
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Keep-Out Layer                          
+.gbr                Top Courtyard                           
+.gbr                Top Component Outline                   
+.gbr                Top Designator                          
+.gbr                Mechanical 7                            
+.gbr                Top 3D Body                             
+.gbr                Top Assembly                            
+.gbr                Bottom 3D Body                          
+.gbr                Bottom Assembly                         
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
 ------------------------------------------------------------------------------------------

@@ -2,119 +2,8 @@
 FileName = PCB_Bluetooth_Device_nRF52820.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 13
-      File : PCB_Bluetooth_Device_nRF52820.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D10
-    D12
-    D14
-    D19
-    D138
-    D139
-    D140
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : PCB_Bluetooth_Device_nRF52820.GM9
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 7
-      File : PCB_Bluetooth_Device_nRF52820.GM7
-
-    Adding Layer      : Mechanical 7
-
-
-Used DCodes :
-    D14
-    D19
-*************************************************************
-
-*************************************************************
-Generating : Top Designator
-      File : PCB_Bluetooth_Device_nRF52820.GM6
-
-    Adding Layer      : Top Designator
-
-
-Used DCodes :
-    D135
-*************************************************************
-
-*************************************************************
-Generating : Top Component Outline
-      File : PCB_Bluetooth_Device_nRF52820.GM4
-
-    Adding Layer      : Top Component Outline
-
-
-Used DCodes :
-    D14
-    D136
-    D137
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : PCB_Bluetooth_Device_nRF52820.GM2
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D135
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PCB_Bluetooth_Device_nRF52820.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB_Bluetooth_Device_nRF52820.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PCB_Bluetooth_Device_nRF52820.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Layer 4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB_Bluetooth_Device_nRF52820.GTP
-
-    Adding Layer      : Top Paste
+Generating : Layer 1
+      File : PCB_Bluetooth_Device_nRF52820_Copper_Signal_Top.gbr
 
     Adding Layer      : Layer 1
 
@@ -122,6 +11,18 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
     D22
     D23
     D24
@@ -162,43 +63,6 @@ Used DCodes :
     D59
     D60
     D61
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB_Bluetooth_Device_nRF52820.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Layer 4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PCB_Bluetooth_Device_nRF52820.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D62
     D63
     D64
@@ -212,7 +76,169 @@ Used DCodes :
     D72
     D73
     D74
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : PCB_Bluetooth_Device_nRF52820_Copper_Signal_1.gbr
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D73
+    D74
     D75
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : PCB_Bluetooth_Device_nRF52820_Copper_Signal_2.gbr
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D57
+    D59
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Layer 4
+      File : PCB_Bluetooth_Device_nRF52820_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D56
+    D58
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_Bluetooth_Device_nRF52820_Pads_Bot.gbr
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_Bluetooth_Device_nRF52820_Pads_Top.gbr
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_Bluetooth_Device_nRF52820_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
     D76
     D77
     D78
@@ -225,6 +251,21 @@ Used DCodes :
     D85
     D86
     D87
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_Bluetooth_Device_nRF52820_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D72
     D88
     D89
     D90
@@ -250,237 +291,6 @@ Used DCodes :
     D110
     D111
     D112
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB_Bluetooth_Device_nRF52820.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : PCB_Bluetooth_Device_nRF52820.GPT
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D111
-    D114
-    D115
-    D116
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PCB_Bluetooth_Device_nRF52820.GPB
-
-    Adding Layer      : Layer 4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D111
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-*************************************************************
-
-*************************************************************
-Generating : Layer 4
-      File : PCB_Bluetooth_Device_nRF52820.GBL
-
-    Adding Layer      : Layer 4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D111
-    D119
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-*************************************************************
-
-*************************************************************
-Generating : Layer 3
-      File : PCB_Bluetooth_Device_nRF52820.G2
-
-    Adding Layer      : Layer 3
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D120
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : PCB_Bluetooth_Device_nRF52820.G1
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
-*************************************************************
-
-*************************************************************
-Generating : Layer 1
-      File : PCB_Bluetooth_Device_nRF52820.GTL
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D18
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D111
     D113
     D114
     D115
@@ -502,11 +312,257 @@ Used DCodes :
     D131
     D132
     D133
+    D134
+    D135
+    D136
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_Bluetooth_Device_nRF52820_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D72
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_Bluetooth_Device_nRF52820_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_Bluetooth_Device_nRF52820_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_Bluetooth_Device_nRF52820_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PCB_Bluetooth_Device_nRF52820_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D78
+    D80
+    D84
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : PCB_Bluetooth_Device_nRF52820_Top_Component_Outline.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D80
+    D139
+    D140
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : PCB_Bluetooth_Device_nRF52820_Top_Designator.gbr
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : PCB_Bluetooth_Device_nRF52820_Mechanical_7.gbr
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PCB_Bluetooth_Device_nRF52820_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D76
+    D78
+    D80
+    D85
+    D141
+    D142
+    D143
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : PCB_Bluetooth_Device_nRF52820_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D80
+    D81
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : PCB_Bluetooth_Device_nRF52820_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : PCB_Bluetooth_Device_nRF52820_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D80
+    D144
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB_Bluetooth_Device_nRF52820_Profile.gbr
+
+
+Used DCodes :
+    D145
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : PCB_Bluetooth_Device_nRF52820_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : PCB_Bluetooth_Device_nRF52820_PTH_Drill.gbr
+
+
+Used DCodes :
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
 *************************************************************
 
 *************************************************************
 Generating : Drill Drawing
-      File : PCB_Bluetooth_Device_nRF52820.GD1
+      File : PCB_Bluetooth_Device_nRF52820_Drawing_1.gbr
 
     Adding Drill Pair : Layer 1-Layer 4
 
@@ -514,14 +570,14 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D10
-    D141
-    D142
+    D76
+    D161
+    D162
 *************************************************************
 
 *************************************************************
 Generating : Drill Guide
-      File : PCB_Bluetooth_Device_nRF52820.GG1
+      File : PCB_Bluetooth_Device_nRF52820_Drillmap_1.gbr
 
     Adding Drill Pair : Layer 1-Layer 4
 
@@ -529,15 +585,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : PCB_Bluetooth_Device_nRF52820.GM
-
-
-Used DCodes :
-    D143
+    D76
 *************************************************************
 
