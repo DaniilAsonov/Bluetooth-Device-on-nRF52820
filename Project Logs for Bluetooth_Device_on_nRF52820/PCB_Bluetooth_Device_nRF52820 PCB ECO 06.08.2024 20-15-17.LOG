@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=Output_A New Net Name=Output_A_P
+Change Net Name : Old Net Name=Output_B New Net Name=Output_B_N
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Add Differential Pair: Number of nets in differential pair Output_A is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair Output_B is 1 instead of 2

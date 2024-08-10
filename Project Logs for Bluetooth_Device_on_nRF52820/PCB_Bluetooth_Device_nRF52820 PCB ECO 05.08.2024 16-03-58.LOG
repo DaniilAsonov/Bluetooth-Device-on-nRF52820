@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD5
+Added Component: Designator=VD4(SP320501ETG)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/littelfuse-inc/SP3205-01ETG/12154656"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SP3205-01ETG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=VD4-1
+Added Pin To Net: NetName=GND Pin=VD4-2
+Added Member To Class: ClassName=Schematic_of_device Member=Component VD5 SP3205-01ETG

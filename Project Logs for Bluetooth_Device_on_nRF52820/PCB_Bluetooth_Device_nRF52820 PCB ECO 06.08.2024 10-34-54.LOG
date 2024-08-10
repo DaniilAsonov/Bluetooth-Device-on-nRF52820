@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=I2C_SCL Pin=U1-4
+Removed Pin From Net: NetName=I2CSDA Pin=U1-5
+Removed Pin From Net: NetName=ADC_SCK Pin=U1-14
+Removed Pin From Net: NetName=ADC_SDO Pin=U1-15
+Removed Pin From Net: NetName=ADC_C\S\ Pin=U1-17
+Added Pin To Net: NetName=ADC_SCK Pin=U1-4
+Added Pin To Net: NetName=ADC_SDO Pin=U1-5
+Added Pin To Net: NetName=ADC_C\S\ Pin=U1-6
+Added Pin To Net: NetName=I2C_SCL Pin=U1-14
+Added Pin To Net: NetName=I2CSDA Pin=U1-15
+Added Member To Class: ClassName=Schematic_of_device Member=Component R8 120
+Added Member To Class: ClassName=Schematic_of_device Member=Component R10 12k
+Added Member To Class: ClassName=Schematic_of_device Member=Component R12 10k
+Added Member To Class: ClassName=Schematic_of_device Member=Component R14 22
+Added Member To Class: ClassName=Schematic_of_device Member=Component R16 120
+Added Member To Class: ClassName=Schematic_of_device Member=Component R18 10k
+Added Member To Class: ClassName=Schematic_of_device Member=Component R20 10k
+Added Member To Class: ClassName=Schematic_of_device Member=Component R22 10k
+Added Member To Class: ClassName=Schematic_of_device Member=Component R24 180k
+Added Member To Class: ClassName=Schematic_of_device Member=Component VD2 Yellow, 2V, 140°
+Added Member To Class: ClassName=Schematic_of_device Member=Component VD3 SP3205-01ETG

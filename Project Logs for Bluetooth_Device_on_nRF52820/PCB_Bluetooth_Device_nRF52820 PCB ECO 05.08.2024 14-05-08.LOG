@@ -1,0 +1,21 @@
+Added Component: Designator=VD2(SP320501ETG)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/littelfuse-inc/SP3205-01ETG/12154656"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SP3205-01ETG"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(SP320501ETG)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/littelfuse-inc/SP3205-01ETG/12154656"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SP3205-01ETG"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(SP320501ETG)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/littelfuse-inc/SP3205-01ETG/12154656"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SP3205-01ETG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VD2-2
+Add Pin To Net: Unknown Pin: Pin VD2-3
+Added Pin To Net: NetName=GND Pin=VD3-2
+Add Pin To Net: Unknown Pin: Pin VD3-3
+Added Pin To Net: NetName=GND Pin=VD4-2
+Add Pin To Net: Unknown Pin: Pin VD4-3
+Added Member To Class: ClassName=Schematic_of_device Member=Component VD2 SP3205-01ETG
+Added Member To Class: ClassName=Schematic_of_device Member=Component VD3 SP3205-01ETG
+Added Member To Class: ClassName=Schematic_of_device Member=Component VD4 SP3205-01ETG

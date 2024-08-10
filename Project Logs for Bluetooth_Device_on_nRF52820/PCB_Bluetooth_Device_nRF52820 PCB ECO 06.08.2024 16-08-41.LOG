@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=Phase_220ACV_IN Pin=X3-1
+Removed Pin From Net: NetName=Phase_220ACV_OUT Pin=X3-2
+Removed Pin From Net: NetName=3.3V Pin=X4-1
+Removed Pin From Net: NetName=Output_A Pin=X6-1
+Removed Pin From Net: NetName=Output_B Pin=X6-2
+Removed Pin From Net: NetName=GND Pin=X6-3
+Removed Member From Class: ClassName=Schematic_of_device Member=X4
+Removed Member From Class: ClassName=Schematic_of_device Member=X5
+Removed Member From Class: ClassName=Schematic_of_device Member=X6
+Change Component Designator: OldDesignator=J1 NewDesignator=J4
+Change Component Designator: OldDesignator=J2 NewDesignator=J5
+Change Component Designator: OldDesignator=X5 NewDesignator=X3
+Added Component: Designator=J1(Phoenix_1827868)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/phoenix-contact/1827868/349156"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1827868"; VariantName = "[No Variations]"
+Added Component: Designator=J2(PHoenix_1778764)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/phoenix-contact/1778764/2625549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1778764"; VariantName = "[No Variations]"
+Added Component: Designator=J3(Phoenix_1778777)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/phoenix-contact/1778777/2625550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1778777"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Phase_220ACV_IN Pin=J1-1
+Added Pin To Net: NetName=Phase_220ACV_OUT Pin=J1-2
+Added Pin To Net: NetName=3.3V Pin=J2-1
+Added Pin To Net: NetName=Output_A Pin=J3-1
+Added Pin To Net: NetName=Output_B Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ4_2
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=NetJ4_4
+Change Net Name : Old Net Name=NetJ1_10 New Net Name=NetJ4_10
+Change Net Name : Old Net Name=NetJ2_A5 New Net Name=NetJ5_A5
+Change Net Name : Old Net Name=NetJ2_B5 New Net Name=NetJ5_B5
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R11-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U2-3
+Added Net: Name=NetJ2_2
+Added Member To Class: ClassName=Schematic_of_device Member=Component J3 1778764
+Added Member To Class: ClassName=Schematic_of_device Member=Component J4 3220-10-0300-00
+Added Member To Class: ClassName=Schematic_of_device Member=Component J5 USB4105-GF-A-060

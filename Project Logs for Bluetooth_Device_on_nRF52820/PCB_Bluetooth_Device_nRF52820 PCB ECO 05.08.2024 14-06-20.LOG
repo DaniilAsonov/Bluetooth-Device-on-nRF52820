@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=VD2-2
+Removed Pin From Net: NetName=GND Pin=VD3-2
+Removed Pin From Net: NetName=GND Pin=VD4-2
+Change Component Description : Designator=U6 Old Description= New Description=TVS DIODE 3.3VWM 12.3VC SOT23-3
+Added Pin To Net: NetName=GND Pin=VD2-1
+Added Pin To Net: NetName=NetJ1_10 Pin=VD2-2
+Added Pin To Net: NetName=GND Pin=VD3-1
+Added Pin To Net: NetName=NetJ1_4 Pin=VD3-2
+Added Pin To Net: NetName=GND Pin=VD4-1
+Added Pin To Net: NetName=NetJ1_2 Pin=VD4-2

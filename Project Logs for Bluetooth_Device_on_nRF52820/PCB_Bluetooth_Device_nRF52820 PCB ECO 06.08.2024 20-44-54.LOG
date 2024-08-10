@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=OutputA_P New Net Name=RS485Output_P
+Change Net Name : Old Net Name=OutputB_N New Net Name=RS485Output_N
+Added Differential Pair: Name=RS485Output
+Added Class: Name=120
+Added Member To Class: ClassName=USB Member=USBout_D

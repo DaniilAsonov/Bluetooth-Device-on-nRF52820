@@ -1,0 +1,904 @@
+Added Component: Designator=ANT1(ANTENNA_W3008)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/W3008/PulseLarsen+Antennas/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "PulseLarsen Antennas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "W3008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/W3008/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/W3008/PulseLarsen+Antennas/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GQM1555C2D120FB01D/5881957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GQM1555C2D120FB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155Z71A105KE01J/16033607"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155Z71A105KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "47nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155R71H473KE14D/4905190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H473KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GQM1555C2D120FB01D/5881957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GQM1555C2D120FB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GQM1555C2D120FB01D/5881957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GQM1555C2D120FB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155Z71A105KE01J/16033607"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155Z71A105KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GQM1555C2D120FB01D/5881957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GQM1555C2D120FB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C_Chip_1812)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "digikey.com/en/products/detail/holy-stone-enterprise-co-ltd/C1812X474K501T/16895223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Holy Stone Enterprise Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "C1812X474K501T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "500V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C_Chip_1812)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "digikey.com/en/products/detail/holy-stone-enterprise-co-ltd/C1812X474K501T/16895223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Holy Stone Enterprise Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "C1812X474K501T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "500V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/885012205055/5453405"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "885012205055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "1pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GJM1555C1H1R0WB01D/2592867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GJM1555C1H1R0WB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.05pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "1.2pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1H1R2BA01D/3693934"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM1555C1H1R2BA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.1pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155D81C475ME15J/16821358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155D81C475ME15J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "820pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155R71H821KA01D/702515"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H821KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155D81C475ME15J/16821358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155D81C475ME15J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155D81C475ME15J/16821358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155D81C475ME15J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C24(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GQM1555C2D120FB01D/5881957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GQM1555C2D120FB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GQM1555C2D120FB01D/5881957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GQM1555C2D120FB01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=C28(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155Z71A105KE01J/16033607"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155Z71A105KE01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C29(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71H104KE02D/4903704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C_Chip_0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "digikey.com/en/products/detail/murata-electronics/GRM188Z71C475KE21D/13401930"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM188Z71C475KE21D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(C_Chip_0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "22pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C220K4RAC7867/8572389"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "C0402C220K4RAC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(C_Chip_0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM188Z71A106MA73D/14290094"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM188Z71A106MA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(Ferrite_Bead_0402)
+Add component (AddParameter): Name = "Impedance @ Frequency"; Value = "120 Ohms @ 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/laird-signal-integrity-products/LI0402D121R-10/806601"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Laird-Signal Integrity Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max current"; Value = "400mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LI0402D121R-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Added Component: Designator=J1(CNC_TECH_)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/cnc-tech/3220-10-0300-00/3883266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "3220-10-0300-00"; VariantName = "[No Variations]"
+Added Component: Designator=J2(USB_TypeC_FP)
+Added Component: Designator=K1(Rekay)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/panasonic-electric-works/ALDP105W/3641417"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electric Works"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ALDP105W"; VariantName = "[No Variations]"
+Added Component: Designator=K2(Button)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EVQ-P2602W/593465"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "EVQ-P2602W"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L_Chip_0402)
+Add component (AddParameter): Name = "Inductance"; Value = "15nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/johanson-technology-inc/LRC0402CJ15NGV001T/1840068"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Johanson Technology Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LRC0402CJ15NGV001T"; VariantName = "[No Variations]"
+Added Component: Designator=L2(L_Chip_0402)
+Add component (AddParameter): Name = "Inductance"; Value = "10uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/taiyo-yuden/CBMF1608T100K/1007994"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CBMF1608T100K"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L_Chip_0402)
+Add component (AddParameter): Name = "Inductance"; Value = "4.7nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/LQG15HS4N7S02D/662867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LQG15HS4N7S02D"; VariantName = "[No Variations]"
+Added Component: Designator=L4(L_Chip_0402)
+Add component (AddParameter): Name = "Inductance"; Value = "2.2nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/MLG1005S2N2BT000/4742728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MLG1005S2N2BT000"; VariantName = "[No Variations]"
+Added Component: Designator=L5(L_Chip_1008)
+Add component (AddParameter): Name = "Inductance"; Value = "2.2uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/LQM2HPN2R2MJ0L/2594611?s=N4IgTCBcDaIDIEUCyYASAFAcmASmJAUgAxwgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LQM2HPN2R2MJ0L"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TSOP-6)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/vishay-siliconix/SI3442BDV-T1-E3/1656365"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SI3442BDV-T1-E3"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/AC0402FR-7W1KL/16991527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0402FR-7W1KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F10K/8576969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_Chip_1210)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/AC1210FR-7W120RL/17007200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC1210FR-7W120RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/AC0402FR-7W24K3L/16989834?s=N4IgjCBcoExaBjKAzAhgGwM4FMA0IB7KAbXAAYAOAdgE4QBdfABwBcoQBlFgJwEsA7AOYgAvvjAA2eCCSQ0WPIRIgAzDTABWCg2ZtInHgOFiQMShumz5OfEUikYAFgB0KgAQBrAPIALALaYOiCs7ACq-LwsXsgAstiomACu3Nii%2BAC0cNAyUDyJinakFvQipUA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0402FR-7W24K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "24.3k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F1K5/8576959"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F1K5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1.5k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/AC0402FR-7W24K3L/16989834?s=N4IgjCBcoExaBjKAzAhgGwM4FMA0IB7KAbXAAYAOAdgE4QBdfABwBcoQBlFgJwEsA7AOYgAvvjAA2eCCSQ0WPIRIgAzDTABWCg2ZtInHgOFiQMShumz5OfEUikYAFgB0KgAQBrAPIALALaYOiCs7ACq-LwsXsgAstiomACu3Nii%2BAC0cNAyUDyJinakFvQipUA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0402FR-7W24K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "24.3k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F12K/8576970"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F12K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "12k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F10K/8576969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F12K/8576970"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F12K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "12k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1782X/192173"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ERJ-2RKF1782X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "17.8k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F10K/8576969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F10K/8576969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF22R0X/1746157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ERJ-2RKF22R0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F10K/8576969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F120R/8576946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F120R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF22R0X/1746157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ERJ-2RKF22R0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F10K/8576969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F10K/8576969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F10K/8576969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF22R0X/1746157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ERJ-2RKF22R0X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGP0402F10K/8576969"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity Passive Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRGP0402F10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA2F8203X/9815371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ERJ-PA2F8203X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "820k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA2F1803X/9815006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ERJ-PA2F1803X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "180k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0402FR-7W5K1L/17018192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-7W5K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5.1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R_Chip_0402)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0402FR-7W5K1L/17018192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-7W5K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5.1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Test_Point)
+Added Component: Designator=TP2(Test_Point)
+Added Component: Designator=TP3(Test_Point)
+Added Component: Designator=TP4(Test_Point)
+Added Component: Designator=TP5(Test_Point)
+Added Component: Designator=TP6(Test_Point)
+Added Component: Designator=TP7(Test_Point)
+Added Component: Designator=TP8(Test_Point)
+Added Component: Designator=TP9(Test_Point)
+Added Component: Designator=TP10(Test_Point)
+Added Component: Designator=TP11(Test_Point)
+Added Component: Designator=TP12(Test_Point)
+Added Component: Designator=TP13(Test_Point)
+Added Component: Designator=TP14(Test_Point)
+Added Component: Designator=U1(QFN40P500X500X50_HS-41N)
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "QFN-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2019-10-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "nRF52820-QDAA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2019-10-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "nRF52820-QDAA"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT23-8)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/texas-instruments/TLV9002IDDFR/10715502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TLV9002IDDFR"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOP8)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/microchip-technology/MCP3553T-E-MS/964284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Monufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MCP3553T-E/MS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-MSOP"; VariantName = "[No Variations]"
+Added Component: Designator=U4(8-SOIC)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/stmicroelectronics/M41T0M6F/868911?s=N4IgTCBcDaILIBYCMAVADHAbAMRAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Monufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "M41T0M6F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Added Component: Designator=U5(8-SOIC)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/renesas-electronics-corporation/ISL3179EFBZ/1879490"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Monufacturer"; Value = "Renesas Electronics Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ISL3179EFBZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pacage"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOT23-3)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/GSOT03C-E3-08/1680560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay General Semiconductor - Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GSOT03C-E3-08"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U8(SON7P65_200X200X80L25X30T160X100N)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/texas-instruments/TPS62260TDRVRQ1/3503800?s=N4IgTCBcDaICoAUDKA2MYUAY4BEBKAangIoCMIAugL5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TPS62260TDRVRQ1"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SOT23-3)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BAL74-215/1127177"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "BAL74,215"; VariantName = "[No Variations]"
+Added Component: Designator=X1(Osc_32MHz)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Suntsu Electronics, Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SXT3248AA48-32.000M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32MHz"; VariantName = "[No Variations]"
+Added Component: Designator=X2(Osc_32_768kHz)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Raltron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RT2012-32.768-9-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Added Component: Designator=X3(Phoenix_1827868)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/phoenix-contact/1827868/349156"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1827868"; VariantName = "[No Variations]"
+Added Component: Designator=X4(PHoenix_1778764)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/phoenix-contact/1778764/2625549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1778764"; VariantName = "[No Variations]"
+Added Component: Designator=X5(Osc_32_768kHz)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Raltron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RT2012-32.768-9-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Added Component: Designator=X6(Phoenix_1778777)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/phoenix-contact/1778777/2625550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1778777"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C6-2
+Added Pin To Net: NetName=3.3V Pin=C7-2
+Added Pin To Net: NetName=3.3V Pin=C16-2
+Added Pin To Net: NetName=3.3V Pin=C20-2
+Added Pin To Net: NetName=3.3V Pin=C21-2
+Added Pin To Net: NetName=3.3V Pin=C23-2
+Added Pin To Net: NetName=3.3V Pin=C24-2
+Added Pin To Net: NetName=3.3V Pin=C25-1
+Added Pin To Net: NetName=3.3V Pin=C32-2
+Added Pin To Net: NetName=3.3V Pin=C33-2
+Added Pin To Net: NetName=3.3V Pin=J1-1
+Added Pin To Net: NetName=3.3V Pin=L5-2
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=3.3V Pin=R9-2
+Added Pin To Net: NetName=3.3V Pin=R12-2
+Added Pin To Net: NetName=3.3V Pin=R14-2
+Added Pin To Net: NetName=3.3V Pin=R18-1
+Added Pin To Net: NetName=3.3V Pin=R19-1
+Added Pin To Net: NetName=3.3V Pin=R22-2
+Added Pin To Net: NetName=3.3V Pin=U1-8
+Added Pin To Net: NetName=3.3V Pin=U1-9
+Added Pin To Net: NetName=3.3V Pin=U1-18
+Added Pin To Net: NetName=3.3V Pin=U1-30
+Added Pin To Net: NetName=3.3V Pin=U1-40
+Added Pin To Net: NetName=3.3V Pin=U2-8
+Added Pin To Net: NetName=3.3V Pin=U3-8
+Added Pin To Net: NetName=3.3V Pin=U4-8
+Added Pin To Net: NetName=3.3V Pin=U5-8
+Added Pin To Net: NetName=3.3V Pin=X4-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C30-2
+Added Pin To Net: NetName=5V Pin=C31-2
+Added Pin To Net: NetName=5V Pin=FB1-2
+Added Pin To Net: NetName=5V Pin=K1-3
+Added Pin To Net: NetName=5V Pin=U8-4
+Added Pin To Net: NetName=5V Pin=U8-5
+Added Pin To Net: NetName=5V Pin=VD1-3
+Added Net: Name=5V
+Added Pin To Net: NetName=ADC_C\S\ Pin=TP3-1
+Added Pin To Net: NetName=ADC_C\S\ Pin=U1-4
+Added Pin To Net: NetName=ADC_C\S\ Pin=U3-7
+Added Net: Name=ADC_C\S\
+Added Pin To Net: NetName=ADC_SCK Pin=TP6-1
+Added Pin To Net: NetName=ADC_SCK Pin=U1-6
+Added Pin To Net: NetName=ADC_SCK Pin=U3-5
+Added Net: Name=ADC_SCK
+Added Pin To Net: NetName=ADC_SDO Pin=TP5-1
+Added Pin To Net: NetName=ADC_SDO Pin=U1-5
+Added Pin To Net: NetName=ADC_SDO Pin=U3-6
+Added Net: Name=ADC_SDO
+Added Pin To Net: NetName=GND Pin=ANT1-G1
+Added Pin To Net: NetName=GND Pin=ANT1-G2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J2-A1_B12
+Added Pin To Net: NetName=GND Pin=J2-B1_A12
+Added Pin To Net: NetName=GND Pin=J2-SH1
+Added Pin To Net: NetName=GND Pin=J2-SH2
+Added Pin To Net: NetName=GND Pin=J2-SH3
+Added Pin To Net: NetName=GND Pin=J2-SH4
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-37
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-6
+Added Pin To Net: NetName=GND Pin=X6-3
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C_SCL Pin=R19-2
+Added Pin To Net: NetName=I2C_SCL Pin=TP10-1
+Added Pin To Net: NetName=I2C_SCL Pin=U1-14
+Added Pin To Net: NetName=I2C_SCL Pin=U4-6
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2CSDA Pin=R18-2
+Added Pin To Net: NetName=I2CSDA Pin=TP11-1
+Added Pin To Net: NetName=I2CSDA Pin=U1-15
+Added Pin To Net: NetName=I2CSDA Pin=U4-5
+Added Net: Name=I2CSDA
+Added Pin To Net: NetName=NetANT1_FEED Pin=ANT1-FEED
+Added Pin To Net: NetName=NetANT1_FEED Pin=L4-2
+Added Net: Name=NetANT1_FEED
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-29
+Added Pin To Net: NetName=NetC1_1 Pin=X1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C3-2
+Added Pin To Net: NetName=NetC2_2 Pin=C13-1
+Added Pin To Net: NetName=NetC2_2 Pin=L1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-26
+Added Pin To Net: NetName=NetC2_2 Pin=U1-38
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-2
+Added Pin To Net: NetName=NetC4_2 Pin=X2-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-28
+Added Pin To Net: NetName=NetC5_1 Pin=X1-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-3
+Added Pin To Net: NetName=NetC8_2 Pin=X2-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C10-1
+Added Pin To Net: NetName=NetC9_1 Pin=R3-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U1-27
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U1-1
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=L3-1
+Added Pin To Net: NetName=NetC14_2 Pin=U1-24
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=L3-2
+Added Pin To Net: NetName=NetC15_2 Pin=L4-1
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=U1-21
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=U1-11
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=U4-1
+Added Pin To Net: NetName=NetC26_2 Pin=X5-2
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=U4-2
+Added Pin To Net: NetName=NetC27_2 Pin=X5-1
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=R17-2
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=R22-1
+Added Pin To Net: NetName=NetC32_1 Pin=R23-2
+Added Pin To Net: NetName=NetC32_1 Pin=U8-3
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R13-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=R16-1
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=R20-1
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ2_A5 Pin=J2-A5
+Added Pin To Net: NetName=NetJ2_A5 Pin=R24-2
+Added Net: Name=NetJ2_A5
+Added Pin To Net: NetName=NetJ2_B5 Pin=J2-B5
+Added Pin To Net: NetName=NetJ2_B5 Pin=R25-2
+Added Net: Name=NetJ2_B5
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Pin To Net: NetName=NetK1_4 Pin=Q1-2
+Added Pin To Net: NetName=NetK1_4 Pin=Q1-2
+Added Pin To Net: NetName=NetK1_4 Pin=Q1-2
+Added Pin To Net: NetName=NetK1_4 Pin=Q1-2
+Added Pin To Net: NetName=NetK1_4 Pin=VD1-2
+Added Net: Name=NetK1_4
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=L2-2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U1-39
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=U8-1
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R5-1
+Added Pin To Net: NetName=NetR4_1 Pin=R6-2
+Added Pin To Net: NetName=NetR4_1 Pin=U2-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=TP4-1
+Added Pin To Net: NetName=NetR7_2 Pin=U3-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R11-2
+Added Pin To Net: NetName=NetR9_1 Pin=U2-5
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U2-3
+Added Pin To Net: NetName=NetR10_2 Pin=X4-2
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=nRESET Pin=K2-4
+Added Pin To Net: NetName=nRESET Pin=R14-1
+Added Pin To Net: NetName=nRESET Pin=R17-1
+Added Pin To Net: NetName=nRESET Pin=R20-2
+Added Pin To Net: NetName=nRESET Pin=U1-16
+Added Net: Name=nRESET
+Added Pin To Net: NetName=Output_A Pin=R15-2
+Added Pin To Net: NetName=Output_A Pin=TP14-1
+Added Pin To Net: NetName=Output_A Pin=U5-6
+Added Pin To Net: NetName=Output_A Pin=U6-2
+Added Pin To Net: NetName=Output_A Pin=X6-2
+Added Net: Name=Output_A
+Added Pin To Net: NetName=Output_B Pin=R15-1
+Added Pin To Net: NetName=Output_B Pin=TP9-1
+Added Pin To Net: NetName=Output_B Pin=U5-7
+Added Pin To Net: NetName=Output_B Pin=U6-1
+Added Pin To Net: NetName=Output_B Pin=X6-1
+Added Net: Name=Output_B
+Added Pin To Net: NetName=OUTPUT_TEMP Pin=R5-2
+Added Pin To Net: NetName=OUTPUT_TEMP Pin=R7-1
+Added Pin To Net: NetName=OUTPUT_TEMP Pin=R8-2
+Added Pin To Net: NetName=OUTPUT_TEMP Pin=TP1-1
+Added Pin To Net: NetName=OUTPUT_TEMP Pin=U2-1
+Added Net: Name=OUTPUT_TEMP
+Added Pin To Net: NetName=Phase_220ACV_IN Pin=C9-2
+Added Pin To Net: NetName=Phase_220ACV_IN Pin=C10-2
+Added Pin To Net: NetName=Phase_220ACV_IN Pin=K1-2
+Added Pin To Net: NetName=Phase_220ACV_IN Pin=X3-1
+Added Net: Name=Phase_220ACV_IN
+Added Pin To Net: NetName=Phase_220ACV_OUT Pin=K1-1
+Added Pin To Net: NetName=Phase_220ACV_OUT Pin=R3-1
+Added Pin To Net: NetName=Phase_220ACV_OUT Pin=X3-2
+Added Net: Name=Phase_220ACV_OUT
+Added Pin To Net: NetName=Relay_Switch Pin=R1-1
+Added Pin To Net: NetName=Relay_Switch Pin=U1-7
+Added Net: Name=Relay_Switch
+Added Pin To Net: NetName=RS485_DIR Pin=R21-2
+Added Pin To Net: NetName=RS485_DIR Pin=U1-33
+Added Pin To Net: NetName=RS485_DIR Pin=U5-2
+Added Pin To Net: NetName=RS485_DIR Pin=U5-3
+Added Net: Name=RS485_DIR
+Added Pin To Net: NetName=RS485_DI Pin=TP13-1
+Added Pin To Net: NetName=RS485_DI Pin=U1-32
+Added Pin To Net: NetName=RS485_DI Pin=U5-4
+Added Net: Name=RS485_DI
+Added Pin To Net: NetName=RS485_RO Pin=R12-1
+Added Pin To Net: NetName=RS485_RO Pin=TP7-1
+Added Pin To Net: NetName=RS485_RO Pin=U1-34
+Added Pin To Net: NetName=RS485_RO Pin=U5-1
+Added Net: Name=RS485_RO
+Added Pin To Net: NetName=SWDCLK Pin=R16-2
+Added Pin To Net: NetName=SWDCLK Pin=TP12-1
+Added Pin To Net: NetName=SWDCLK Pin=U1-20
+Added Net: Name=SWDCLK
+Added Pin To Net: NetName=SWDIO Pin=R13-2
+Added Pin To Net: NetName=SWDIO Pin=TP8-1
+Added Pin To Net: NetName=SWDIO Pin=U1-19
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=USBin_D_N Pin=J2-A7
+Added Pin To Net: NetName=USBin_D_N Pin=J2-B7
+Added Pin To Net: NetName=USBin_D_N Pin=U7-1
+Added Net: Name=USBin_D_N
+Added Pin To Net: NetName=USBin_D_P Pin=J2-A6
+Added Pin To Net: NetName=USBin_D_P Pin=J2-B6
+Added Pin To Net: NetName=USBin_D_P Pin=U7-3
+Added Net: Name=USBin_D_P
+Added Pin To Net: NetName=USBout_D_N Pin=U1-12
+Added Pin To Net: NetName=USBout_D_N Pin=U7-6
+Added Net: Name=USBout_D_N
+Added Pin To Net: NetName=USBout_D_P Pin=U1-13
+Added Pin To Net: NetName=USBout_D_P Pin=U7-4
+Added Net: Name=USBout_D_P
+Added Pin To Net: NetName=V_REF Pin=C19-1
+Added Pin To Net: NetName=V_REF Pin=TP2-1
+Added Pin To Net: NetName=V_REF Pin=U2-6
+Added Pin To Net: NetName=V_REF Pin=U2-7
+Added Pin To Net: NetName=V_REF Pin=U3-1
+Added Net: Name=V_REF
+Added Pin To Net: NetName=VBUS Pin=C18-2
+Added Pin To Net: NetName=VBUS Pin=C29-2
+Added Pin To Net: NetName=VBUS Pin=FB1-1
+Added Pin To Net: NetName=VBUS Pin=J2-A4_B9
+Added Pin To Net: NetName=VBUS Pin=J2-B4_A9
+Added Pin To Net: NetName=VBUS Pin=U1-10
+Added Pin To Net: NetName=VBUS Pin=U7-5
+Added Net: Name=VBUS
+Added Class: Name=Schematic_of_device
+Added Differential Pair: Name=USBin_D
+Added Differential Pair: Name=USBout_D
+Added Class: Name=USB

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ADC_C\S\ Pin=U1-4
+Removed Pin From Net: NetName=ADC_SDO Pin=U1-5
+Removed Pin From Net: NetName=ADC_SCK Pin=U1-6
+Removed Pin From Net: NetName=I2C_SCL Pin=U1-14
+Removed Pin From Net: NetName=I2CSDA Pin=U1-15
+Added Pin To Net: NetName=I2C_SCL Pin=U1-4
+Added Pin To Net: NetName=I2CSDA Pin=U1-5
+Added Pin To Net: NetName=ADC_SDO Pin=U1-14
+Added Pin To Net: NetName=ADC_SCK Pin=U1-15
+Added Pin To Net: NetName=ADC_C\S\ Pin=U1-17
+Added Class: Name=DC_connection
+Added Member To Class: ClassName=Schematic_of_device Member=Component X6 1778764

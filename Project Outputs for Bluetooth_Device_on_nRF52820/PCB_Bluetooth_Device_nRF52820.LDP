@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Job\AD_projects\Bluetooth_Device_on_nRF52820\PCB_Bluetooth_Device_nRF52820.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_bluetooth_device_nrf52820-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_bluetooth_device_nrf52820-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

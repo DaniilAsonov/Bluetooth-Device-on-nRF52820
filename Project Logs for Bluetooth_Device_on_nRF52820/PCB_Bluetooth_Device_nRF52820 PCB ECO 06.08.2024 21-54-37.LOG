@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBUS Pin=C18-2
+Removed Pin From Net: NetName=VBUS Pin=U1-10
+Added Pin To Net: NetName=5V Pin=C18-2
+Added Pin To Net: NetName=5V Pin=U1-10

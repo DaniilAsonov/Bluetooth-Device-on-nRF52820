@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=U8-7
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Pin From Net: NetName=GND Pin=X1-4
+Removed Pin From Net: NetName=Output_B Pin=X6-1
+Removed Pin From Net: NetName=Output_A Pin=X6-2
+Change Component Description : Designator=J2 Old Description=USB4105-GF-A-060 New Description=CONN RCP USB2.0 TYP C 24P SMD RA
+Change component parameters: Designator = "J2" ("J2"); Footprint = "USB_TYPEC_FP"; UniqueID = "\ZYORWTVD" ("\ZYORWTVD")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.digikey.com/en/products/detail/gct/usb4105-gf-a-060/14559036"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Output_A Pin=X6-1
+Added Pin To Net: NetName=Output_B Pin=X6-2
