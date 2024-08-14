@@ -1,18 +1,18 @@
 Protel Design System Design Rule Check
 PCB File : D:\Job\AD_projects\Bluetooth_Device_on_nRF52820\PCB_Bluetooth_Device_nRF52820.PcbDoc
-Date     : 10.08.2024
-Time     : 15:24:39
+Date     : 14.08.2024
+Time     : 20:30:23
 
-Processing Rule : Clearance Constraint (Gap=2.5mm) (InNetClass('220_Nets')),(InNet('GND'))
+Processing Rule : Clearance Constraint (Gap=98.425mil) (InNetClass('220_Nets')),(InNet('GND'))
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.152mm) (InNetClass('RS485_dp')),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (InNetClass('RS485_dp')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.152mm) (InNetClass('USB_dp')),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (InNetClass('USB_dp')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -24,43 +24,43 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.152mm) (Max=25.4mm) (Preferred=0.152mm) (All)
+Processing Rule : Width Constraint (Min=6mil) (Max=1000mil) (Preferred=6mil) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.175mm) (Max=0.321mm) (Preferred=0.254mm) (InNetClass('50Ohm'))
+Processing Rule : Width Constraint (Min=6.89mil) (Max=12.648mil) (Preferred=10mil) (InNetClass('50Ohm'))
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (All)
+Processing Rule : Minimum Annular Ring (Minimum=3.937mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.05mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=1.968mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB_Bluetooth_Device_nRF52820.PcbDoc   10.08.2024  15:13:53
+NCDrill File Report For: PCB_Bluetooth_Device_nRF52820.PcbDoc   14.08.2024  20:40:53
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Layer 1 to Layer 4
@@ -8,7 +8,7 @@ ASCII SlotHoles File : PCB_Bluetooth_Device_nRF52820-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             306       PTH        1064.82mm (41.92inch)
+T1      0.3mm (12mil)                                             Round             348       PTH        1085.63mm (42.74inch)
 T2      0.305mm (12mil)                                           Round             9         PTH        8.80mm (0.35inch)
 T3      0.6mm (24mil)                                             Slot              4         PTH        38.17mm (1.50inch)
 T4      1.041mm (41mil)                                           Round             4         PTH        37.62mm (1.48inch)
@@ -18,6 +18,6 @@ T7      1.1mm (43mil)                                             Round         
 T8      2.4mm (94mil)                                             Round             2         NPTH       12.81mm (0.50inch)
 T9      3.5mm (138mil)                                            Round             4         NPTH       169.92mm (6.69inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              337
+Totals                                                                              379
 
 Total Processing Time (hh:mm:ss) : 00:00:00
